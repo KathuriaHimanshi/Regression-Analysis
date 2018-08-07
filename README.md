@@ -17,17 +17,17 @@ Regression models (both linear and non-linear) are used for predicting a real va
 
 `In this Repo, We will be implementing Univariate Regression Analysis of the following type (Note: Some explanatory variables are quantitative variables and others are qualitative variables)`
 
-#### 1.  Simple Linear Regression
+#### 1.  [Simple Linear Regression](https://github.com/KathuriaHimanshi/Regression-Analysis/blob/master/Simple%20Linear%20Regression.ipynb)
 
-#### 2. Multiple Linear Regression
+#### 2. [Multiple Linear Regression](https://github.com/KathuriaHimanshi/Regression-Analysis/blob/master/Multiple%20Linear%20Regression.ipynb)
 
-#### 3. Polynomial Regression
+#### 3. [Polynomial Regression](https://github.com/KathuriaHimanshi/Regression-Analysis/blob/master/polynomial_regression.ipynb)
 
-#### 4. Support Vector for Regression (SVR)
+#### 4. [Support Vector for Regression (SVR)](https://github.com/KathuriaHimanshi/Regression-Analysis/blob/master/SVR.ipynb)
 
-#### 5. Decision Tree Regression
+#### 5. [Decision Tree Regression](https://github.com/KathuriaHimanshi/Regression-Analysis/blob/master/Decision%20Tree%20Regresession.ipynb)
 
-#### 6. Random Forest Regression
+#### 6. [Random Forest Regression](https://github.com/KathuriaHimanshi/Regression-Analysis/blob/master/random_forest_regression.ipynb)
 
 #### Install
 
